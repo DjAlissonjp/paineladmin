@@ -1,6 +1,6 @@
 /**
  * Novo SGA - Atendimento
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 var SGA = SGA || {};
 

@@ -13,7 +13,7 @@ use Novosga\Controller\CrudController;
 /**
  * UsuariosController.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class UsuariosController extends CrudController
 {

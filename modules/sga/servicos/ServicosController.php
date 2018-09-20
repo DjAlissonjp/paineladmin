@@ -10,7 +10,7 @@ use Novosga\Controller\CrudController;
 /**
  * ServicosController.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class ServicosController extends CrudController
 {

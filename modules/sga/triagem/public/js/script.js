@@ -1,6 +1,6 @@
 /**
  * Novo SGA - Triagem
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * @author Alisson da Costa <alisson@procon.pb.gov.br>
  */
 var SGA = SGA || {};
 

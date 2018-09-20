@@ -11,12 +11,12 @@ use Novosga\Model\Util\UsuarioSessao;
 /**
  * FilaService.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * @author Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class FilaService extends ModelService
 {
-    // default queue ordering
-    public static $ordering = array(
+     // default queue ordering
+     public static $ordering = array(
         // wait time
         array(
             'exp' => '((p.peso + 1) * (CURRENT_TIMESTAMP() - e.dataChegada))',
@@ -33,6 +33,7 @@ class FilaService extends ModelService
             'order' => 'ASC',
         ),
     );
+    
 
     /**
      * Retorna a fila de atendimentos do usuario.

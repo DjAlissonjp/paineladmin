@@ -9,7 +9,7 @@ use Novosga\Model\Grupo;
 /**
  * Prioridades DataFixture.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class DataFixture
 {

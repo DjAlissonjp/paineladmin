@@ -15,7 +15,7 @@ use Novosga\Service\ServicoService;
 /**
  * MonitorController.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class MonitorController extends ModuleController
 {

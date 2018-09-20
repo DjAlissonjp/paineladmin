@@ -14,7 +14,7 @@ use Novosga\Service\ServicoService;
 /**
  * TriagemController.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * @author Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class TriagemController extends ModuleController
 {

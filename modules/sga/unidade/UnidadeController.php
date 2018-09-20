@@ -14,7 +14,7 @@ use Novosga\Service\ServicoService;
  *
  * Controlador do módulo de configuração da unidade
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class UnidadeController extends ModuleController
 {

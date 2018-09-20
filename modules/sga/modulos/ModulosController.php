@@ -15,7 +15,7 @@ use Novosga\Util\FileUtils;
 /**
  * ModulosController.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class ModulosController extends ModuleController
 {

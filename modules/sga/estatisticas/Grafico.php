@@ -5,7 +5,7 @@ namespace modules\sga\estatisticas;
 /**
  * Grafico.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * Alisson da Costa <alisson@procon.pb.gov.br>
  */
 class Grafico extends Relatorio
 {

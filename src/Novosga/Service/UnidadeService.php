@@ -79,7 +79,7 @@ class UnidadeService extends MetaModelService
     }
 
     /**
-     * @param string $where
+     * @param string $where 
      *
      * @return Query
      */

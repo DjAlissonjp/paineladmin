@@ -10,7 +10,7 @@ use Novosga\Controller\CrudController;
 /**
  * PrioridadesController.
  *
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * @author Alisson da Costao <alisson@procon.pb.gov.br>
  */
 class PrioridadesController extends CrudController
 {
